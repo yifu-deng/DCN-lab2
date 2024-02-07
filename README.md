@@ -1,6 +1,6 @@
 # sample-time-app
 
-This is the lab2 for the Data Communications and Networks course.
+This is lab2 for the Data Communications and Networks course.
 
 Sample Python Flask application to showcase the steps of building and running a web server with Docker.
 
